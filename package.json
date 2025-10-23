@@ -1,5 +1,5 @@
 {
-	"name": "@ryanmartin/exceljs",
+	"name": "@rmartin93/exceljs-fork",
 	"version": "4.4.1",
 	"description": "Fork of ExcelJS with bug fixes and improvements.",
 	"private": false,
