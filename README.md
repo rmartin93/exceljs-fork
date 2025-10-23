@@ -4,7 +4,7 @@ Fork of [ExcelJS](https://github.com/exceljs/exceljs) library.
 
 Read, manipulate and write spreadsheet data and styles to XLSX and JSON.
 
-Reverse engineered from Excel spreadsheet files as a project.h
+Reverse engineered from Excel spreadsheet files as a project.
 
 # Installation
 
