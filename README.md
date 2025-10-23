@@ -11,8 +11,9 @@ Reverse engineered from Excel spreadsheet files as a project.h
 For now, include this in your package.json
 
 ```shell
- 		"exceljs": "github:rmartin93/exceljs-fork",
+npm i @rmartin93/exceljs-fork
 ```
+
 Then run an `nmp i`
 
 I'll probably publish to npm soon.
