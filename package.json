@@ -1,6 +1,6 @@
 {
 	"name": "@rmartin93/exceljs-fork",
-	"version": "4.4.3",
+	"version": "4.4.4",
 	"description": "Fork of ExcelJS with bug fixes and improvements.",
 	"private": false,
 	"license": "MIT",
