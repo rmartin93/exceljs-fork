@@ -1,12 +1,12 @@
 {
 	"name": "@ryanmartin/exceljs",
 	"version": "4.4.1",
-	"description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
+	"description": "Fork of ExcelJS with bug fixes and improvements.",
 	"private": false,
 	"license": "MIT",
 	"author": {
-		"name": "Guyon Roche",
-		"email": "guyon@live.com"
+		"name": "Ryan Martin",
+		"email": "ryan@meraki-digital.com"
 	},
 	"repository": {
 		"type": "git",
