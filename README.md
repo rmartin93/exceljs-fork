@@ -8,15 +8,9 @@ Reverse engineered from Excel spreadsheet files as a project.h
 
 # Installation
 
-For now, include this in your package.json
-
 ```shell
 npm i @rmartin93/exceljs-fork
 ```
-
-Then run an `nmp i`
-
-I'll probably publish to npm soon.
 
 # New Features!
 
