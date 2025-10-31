@@ -87,6 +87,6 @@ jobs:
           restore-keys: |
             v1-npm-
       - run: npm install
-      - run: tsc index.d.ts
+      - run: npx tsc index.d.ts
         env:
           CI: true
